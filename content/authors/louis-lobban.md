@@ -5,6 +5,5 @@ bio: 'An innovative entrepreneur (and a techie at heart), who loves to get his h
 avatar: "/images/louis-lobban.jpeg"
 social: []
 featured: false
-draft: true
 
 ---
